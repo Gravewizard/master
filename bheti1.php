@@ -97,7 +97,7 @@ overflow-y: scroll;">
                                                       
                                                     </th>
                                                     <th>Bheti Name</th>
-                                                    <th>Bheti no.</th>
+                                                    <th>Bheti no</th>
                                                     <th>Option</th>
                                                 </tr>
                                             </thead>
