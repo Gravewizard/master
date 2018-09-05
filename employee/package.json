@@ -1,0 +1,13 @@
+{
+  "name": "dhingMB",
+  "version": "1.0.0",
+  "description": "",
+  "main": "welcome.html",
+  "author": "",
+  "window": {
+    "toolbar": true,
+    "width": 1080,
+    "height": 800,
+	"icon":"app.png"
+  }
+}
