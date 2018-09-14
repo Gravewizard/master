@@ -102,6 +102,20 @@
                 </div>
               </div>
             </div>
+			<div class="row">
+              <div class="row">
+                <div class="col-sm-12">
+                  <h4 class="m-t-0">Print/View your trade license copy:</h4>
+                  <form role="search" class="navbar-left app-search pull-center">
+                    <input type="text" id="myInput" onkeyup="myFunction()" placeholder="Enter the name...." class="form-control">
+                    <a href=""><i class="fa fa-search"></i></a>
+                  </form>
+                  
+                  
+                  
+                </div>
+              </div>
+            </div>
             <div class="row">
               <div class="col-sm-12">
                 <div class="card-box">
